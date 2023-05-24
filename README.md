@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omprakash Yadav</h1>
-<h4 align="center">Aspiring Data Analyst | M.Sc. Statistics from Mumbai University | Advance Python | Tableau | R-Prog. | SQL | Machine Learning </h4>
+<h4 align="center">Aspiring Data Analyst | M.Sc. Statistics from Mumbai University | Advance Python | OOPs | Tableau | R-Prog. | SQL | Machine Learning </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=opryadav1998&label=Profile%20views&color=0e75b6&style=flat" alt="opryadav1998" /> </p>
 
