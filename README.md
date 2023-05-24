@@ -42,4 +42,4 @@
 
 
 
-<p align="center"><a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=opryadav1998&show_icons=true&locale=en" height="180" alt="opryadav1998"/></a> <a><img src="https://github-readme-stats.vercel.app/api?username=opryadav1998&show_icons=true&locale=en" alt="opryadav1998" height="200"/></a> <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=opryadav1998&" alt="opryadav1998" height="200"/></a></p>
+<p align="center"><a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=opryadav1998&show_icons=true&locale=en" height="200" alt="opryadav1998"/></a> <a><img src="https://github-readme-stats.vercel.app/api?username=opryadav1998&show_icons=true&locale=en" alt="opryadav1998" height="200"/></a> <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=opryadav1998&" alt="opryadav1998" height="200"/></a></p>
